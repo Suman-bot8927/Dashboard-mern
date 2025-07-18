@@ -45,15 +45,8 @@ This project helped me dive into:
 - **Balancing performance** with animations.
 - Crafting a **responsive** and **user-friendly interface**.
 
-## 🤝 Contributions
-
-Contributions, issues, and feedback are welcome! Feel free to open a pull request or an issue.
-
 ## 👨‍💻 Author
 
-- **George Omondi**  
-  LinkedIn: [Connect](https://www.linkedin.com/in/george-omondi-822166207)  
+- **Suman Samanta**  
+  LinkedIn: [Connect](https://www.linkedin.com/in/suman-samanta-85a778327/)  
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Argwingskodhek/react-admin-dashboard/blob/main/LICENSE) file for details.
